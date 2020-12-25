@@ -1,0 +1,13 @@
+                                                                    Answer
+
+
+1. MobX is my favourite state management library for react because MobX is certainly not a small library, but when compared to Redux, some might find its API and observable approach a bit more pleasing. There's still a noticeable learning curve for a library of this kind, but after that, it really feels nice and less repetitive than traditional Redux. MobX is certainly not a small library, but when compared to Redux, some might find its API and observable approach a bit more pleasing. There's still a noticeable learning curve for a library of this kind, but after that, it really feels nice and less repetitive than traditional Redux. 
+2. React Native Best Practices to Follow
+* Classify the Component First
+* Use Functional Component for Stateless Presentational Component
+* Use Class Component for Stateful Container Component
+* Key of Each Element in List Should Be Unique
+* Manage Static Image Resources
+
+3.I prefer dry coding style because Don’t Repeat Yourself (DRY) is a software development principle, the main aim of which is to reduce repetition of code.
+4. I prefer vanilla react native because The biggest advantage of React Native without Expo is that you can link the packages that use native modules and connect your native modules written in native languages. You also have an opportunity to and implement for example a background geolocation. You can add the package to compress images or videos and a lot of other packages that will improve your application.
